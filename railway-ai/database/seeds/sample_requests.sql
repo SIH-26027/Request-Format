@@ -1,0 +1,5 @@
+-- ==============================================================================
+-- INDIAN RAILWAYS - AUTOMATIC BLOCK PLANNING SYSTEM (ABPS)
+-- Database Requests Seed File
+-- Note: Initial seeds and schema are configured in database/supabase_schema.sql
+-- ==============================================================================
